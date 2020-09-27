@@ -8,7 +8,7 @@
 		"titulo": "Nielson Diplomata 380",
 		"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg",
 		"videoId": "31EeFT7RRnM",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -33,7 +33,7 @@
 		"titulo": "Ciferal Dinossauro",
 		"url": "https://img.youtube.com/vi/mdUpxA1u6xg/hqdefault.jpg",
 		"videoId": "mdUpxA1u6xg",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -58,7 +58,7 @@
 		"titulo": "Papa - Filas , Um Pouco Da Sua História",
 		"url": "https://img.youtube.com/vi/o45ywNOPlkA/hqdefault.jpg",
 		"videoId": "o45ywNOPlkA",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -83,7 +83,7 @@
 		"titulo": "CMTC - Companhia Municipal de Transportes Coletivos",
 		"url": "https://img.youtube.com/vi/aJIOvKOc6Tw/hqdefault.jpg",
 		"videoId": "aJIOvKOc6Tw",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -108,7 +108,7 @@
 		"titulo": "Marcopolo 1 - Carrosseria",
 		"url": "https://img.youtube.com/vi/-5i9FXSaNuA/hqdefault.jpg",
 		"videoId": "-5i9FXSaNuA",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -133,7 +133,7 @@
 		"titulo": "Onibus Abandonados Que Poderiam Ser Aproveitados",
 		"url": "https://img.youtube.com/vi/yN4QpJVjm58/hqdefault.jpg",
 		"videoId": "yN4QpJVjm58",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -158,7 +158,7 @@
 		"titulo": "Empresa Gontijo de Transportes",
 		"url": "https://img.youtube.com/vi/mDJvTSQK3tc/hqdefault.jpg",
 		"videoId": "mDJvTSQK3tc",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -183,7 +183,7 @@
 		"titulo": "Viação Cometa S.A",
 		"url": "https://img.youtube.com/vi/0pPY5FqWlU8/hqdefault.jpg",
 		"videoId": "0pPY5FqWlU8",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -208,7 +208,7 @@
 		"titulo": "Extinta Viação São Geraldo",
 		"url": "https://img.youtube.com/vi/aYyBezlv4zI/hqdefault.jpg",
 		"videoId": "aYyBezlv4zI",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
@@ -233,7 +233,7 @@
 		"titulo": "Viação Resendense",
 		"url": "https://img.youtube.com/vi/pBWiYjXbZ2Y/hqdefault.jpg",
 		"videoId": "pBWiYjXbZ2Y",
-		"fotos": [
+		"galeria": [
 			{
 				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
 			},
