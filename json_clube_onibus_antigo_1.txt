@@ -2,7 +2,7 @@
   "success": true,
   "data": [
     {
-		"id": 10,
+		"id": "10",
 		"dataPublicacao": "2020-09-16T12:00:10Z",
 		"descricao": "Salve amigos ,nesse video eu falo um pouco da carrosseria Nielson Diplomata 380 ,é uma das carrosserias mais bonitas na minha opnião que fizeram parte da vida de muitas pessoas no passado ,se gostou deixem uma curtida ,se increvam no canal ,compartilhem com seus amigos ,um grande abraço ...",
 		"titulo": "Nielson Diplomata 380",
@@ -10,24 +10,24 @@
 		"videoId": "31EeFT7RRnM",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/jb7grZD/15e97544726817ccbcc3a609afb315a4.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/4pjsnGJ/73cd0b3fc3ba1442de0b21ab5b87dee9.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/3TM29LK/b56dd3590f01a6195fce1285eef0f09c.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/j6pq87g/ddc5023d16b6ec857da7989d6bf8966d.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/NYBFqqL/nbr2015-01-0039.jpg"
 			}
 		]
 	},	
 	{
-		"id": 9,
+		"id": "9",
 		"dataPublicacao": "2020-09-16T12:00:10Z",
 		"descricao": "Ola meus amigos ,nesse video estarei falando um pouco da história dessa magnifica e bela carrosseria que foi a Ciferal Dinossauro ,se gostou deixem uma curtida ,se inscrevam no canal ,tmj ,um grande abraço ...",
 		"titulo": "Ciferal Dinossauro",
@@ -35,24 +35,27 @@
 		"videoId": "mdUpxA1u6xg",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/yRZR2ZN/2df83778a54ee3a056cd361c9532c4bb.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/hmWd772/499cba33ff5bb3cc6d73ed0804969209.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/56ZBvgb/46219eaa1bca755fd5fc5227c84feb45.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/9WSPmDG/CMA3103.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/vXkQrZj/dino-6.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/rQMmKT9/e789c08cd38e29b9e7f846ea986777c3.jpg"
 			}
 		]
 	},	
 	{
-		"id": 8,
+		"id": "8",
 		"dataPublicacao": "2020-09-15T22:14:52Z",
 		"descricao": "Ola amigos ,nesse video eu falo um pouco do Papa -Filas que teve sua origem nos Estados Unidos ,que ficou alguns anos transportando passageiros aqui no Brasil , se gostou deixem um like ,se inscrevam no canal ,um grande abraço a todos ...",
 		"titulo": "Papa - Filas , Um Pouco Da Sua História",
@@ -60,24 +63,27 @@
 		"videoId": "o45ywNOPlkA",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/Vt1Yztc/73966bcb59ab1f078655b8b1a961458c.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/bgjfyfY/cermava7a-1.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/GCHLxBN/manaus-am-anos-80.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/ZYDwJt6/pflila-3.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/2dSYmp0/pflila-13.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/M6LzzHt/unnamed.jpg"
 			}
 		]
 	},
 	{
-		"id": 7,
+		"id": "7",
 		"dataPublicacao": "2020-09-15T12:00:10Z",
 		"descricao": "Ola amigos ,nesse video eu falo um pouco da extinta CMTC de São Paulo ,espero que gostem ,se inscrevam no canal ,de um like ,isso ajuda muito o canal ,obrigado a todos ...",
 		"titulo": "CMTC - Companhia Municipal de Transportes Coletivos",
@@ -85,24 +91,33 @@
 		"videoId": "aJIOvKOc6Tw",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/GdDpjYz/01cff4f6b0601557f701c0b14ae802b7.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/kB74DHF/2bb9441f6722b8bb9a9c812601480775.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/yWXL1Cw/8a35d8941f81caed22496dd38fb32414.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/VqdZqFd/219b40663693650c622223abc21ca045.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/7Kp4xGW/5393fbc70f037c6ccf1604a2eae22f3c.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/kMbrHgJ/7797e20650f551f01fc1b8b65bd3ad91.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/Wf7mmf9/9209566b728f11a2a13c97bf864bb7ff.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/D4BJfkb/ce8a03d3e34441cf9f5b0058af85dacf.jpg"
 			}
 		]
 	},
 	{
-		"id": 6,
+		"id": "6",
 		"dataPublicacao": "2020-09-15T12:00:10Z",
 		"descricao": "Ola amigos ,nesse video estarei falando um pouco sobre essa bela carrosseria ,a Marcopolo 1 ,se gostou deixem uma curtida ,se inscrevam no canal ,um grande abraço a todos ...",
 		"titulo": "Marcopolo 1 - Carrosseria",
@@ -110,24 +125,27 @@
 		"videoId": "-5i9FXSaNuA",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/L1FP4sW/6e95b75c30a709dada38d2cf41b7ff08.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/D8CN5sj/6621051dda322677341ee9764c19b32f.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/BfMJ8Pv/aaaaa.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/D9kGXgd/ffff.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/pdH80L1/hhh.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/kqrNZWB/n.jpg"
 			}
 		]
 	},
 	{
-		"id": 5,
+		"id": "5",
 		"dataPublicacao": "2020-09-14T12:00:10Z",
 		"descricao": "Ola amigos ,tudo bem com voces , nesse video eu mostro a triste realidade de muitos onibus que fizeram parte da nossa história ,hoje abandonados em muitos desmanches pelo Brasil a fora por vários motivos ,que na minha opnião poderiam ainda ser aproveitados ,muitos de voces gostariam de ter algum pra trabalhar ,pra lazer e etc , se gostaram de uma curtida ,isso ajuda muito o canal ,se inscrevam ,um abraço a todos ...",
 		"titulo": "Onibus Abandonados Que Poderiam Ser Aproveitados",
@@ -135,24 +153,36 @@
 		"videoId": "yN4QpJVjm58",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/4Fg26QQ/0db9a0a2baac4a60423b9fa6c6f0ee63.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/NCjzTxg/4bf30c925567fdd8d28ce3b99f2c0cf2.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/Vw3y30M/5ece8c5ad1371.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/GJFHjRH/6b39967872dfc727b826733b4a6b0725.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/30hMj4c/865521687d19822407c9a6c85ecbdba8.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/30gfq9G/bc5e0d6b4eef5af2beccc0759d40d172.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/F8qp29p/download.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/crZhfdb/fotos-jackson-muniz-via-o-itapemirim-exclusivas-garagem-nibus-11.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/88ZMp2n/imagesnn.jpg"
 			}
 		]
 	},
 	{
-		"id": 4,
+		"id": "4",
 		"dataPublicacao": "2020-09-13T12:00:10Z",
 		"descricao": "Salve amigos ,mais um video pra voces falando um pouco da Empresa Gontijo de Transportes ,um breve resumo da história dessa grande empresa do nosso Brasil ,se gostou deixem sua curtida ,se inscrevam quem ainda não for inscrito ,um grande abraço a todos ....",
 		"titulo": "Empresa Gontijo de Transportes",
@@ -160,49 +190,61 @@
 		"videoId": "mDJvTSQK3tc",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/FKV3Lg0/75d35aacc76937d3f4df41b55587dfaa.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/vmCz7Ww/775478d431d837f9a227662d66edc36b.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/DznDmHV/a88e8aa1651af4808a8fe0aebee4cf5e.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/qsN5V4z/acfc970b63cc6f7e9d7b95b00b612e2f.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/s5mK1rb/images.jpg"
 			}
 		]
 	},
 	{
-		"id": 3,
+		"id": "3",
 		"dataPublicacao": "2020-09-13T12:00:10Z",
 		"descricao": "ola meus amigos ,nesse video eu falo um pouco sobre a Viação Cometa e tambem mostrando um pouco das garagens dessa grande empresa que admiro muito ,novo formato de video ,espero que voces tenham gostado ,se inscrevam no canal ,deixem sua curtida ,um grande abraço a todos ....",
 		"titulo": "Viação Cometa S.A",
 		"url": "https://img.youtube.com/vi/0pPY5FqWlU8/hqdefault.jpg",
 		"videoId": "0pPY5FqWlU8",
-		"galeria": [
+		"galeria": [	
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/mFJHyK5/0ce51fa81420a2c0b2c5dbe1140d8a60.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/3sCHN20/7fa349162cdc23ec1830d1b644fcb6af.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/PFh5S2x/9f3173bfa3f906a82ce5ee249cf34037.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/R35KQLx/60ce80cdf05ee5d5b0a46262f90033f6.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/TBbvnBN/67a7d46839c6fba880d30a232351d40a.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/8xY4xBQ/72ee8547a2e164f82eff7bb2f125fdf3.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/h8XmGrd/c2d8c315e3b848065fd139ca89f2cd00.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/h8XmGrd/c2d8c315e3b848065fd139ca89f2cd00.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/h8XmGrd/c2d8c315e3b848065fd139ca89f2cd00.jpg"
 			}
 		]
 	},
 	{
-		"id": 2,
+		"id": "2",
 		"dataPublicacao": "2020-09-12T12:00:10Z",
 		"descricao": "Ola amigos ,mais um video mostrando as garagens e falando um pouco da história da grande São Geraldo que hoje infelizmente não existe mais ,só restou saudades ,se gostou deixe sua curtida ,se inscrevam no canal ...",
 		"titulo": "Extinta Viação São Geraldo",
@@ -210,24 +252,36 @@
 		"videoId": "aYyBezlv4zI",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/L5hFMcM/0b970382ca14b348a9870d372a0ec464.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/sbNp07S/9f6dcbf15a054178328906195b1be70c.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/9b6chd0/11.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/gDXxky4/9089a3aef6ebe4328e323c27fd5d9a0d.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/CPY5zrn/51869d5a260a4a2944b195ffc7268d6c.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/VLfH093/d85f8ab05412ef2773a98bfab3a327c4.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/wSpKJ0K/maxresdefault.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/7gHYRRZ/sao-geraldo1.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/fSHzhDN/sao-geraldo3.jpg"
 			}
 		]
 	},
 	{
-		"id": 1,
+		"id": "1",
 		"dataPublicacao": "2020-09-12T22:14:52Z",
 		"descricao": "Salve amigos ,estou de volta ,e hoje estou postando um novo formato de vídeo falando um pouco das empresas tambem ,espero que gostem ,fiz de coração ,um grande abraço a todos e quem não for inscrito ,se inscrevam ,deem sua curtida pra ajudar , fotos tiradas da net ,todos seus créditos mantidos ...",
 		"titulo": "Viação Resendense",
@@ -235,19 +289,31 @@
 		"videoId": "pBWiYjXbZ2Y",
 		"galeria": [
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/w07vtzw/0cf0d9f68fc4b341c7c5bba5bcf3c1cf.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/xzHrv0R/04d5bfe8955ac3abeafd61cbd304b5ae.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/kD7tbWP/6bd7372945bd816402e8a24a70dfea6e.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/nbw2trk/6c28cf7e908c093de1d8973191d1ed59.jpg"
 			},
 			{
-				"url": "https://img.youtube.com/vi/31EeFT7RRnM/hqdefault.jpg"
+				"url": "https://i.ibb.co/jDJZGkF/24c14e98c022988a50a3e3b82df0198f.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/8z5PJPq/81effcd6561a89206d8048d5af4b078e.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/TwZJp7n/Busscar-Jum-Buss-Barra-Mansa-RJ.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/MfRGmt5/viacao-resendense1.jpg"
+			},
+			{
+				"url": "https://i.ibb.co/GHg2vxn/viacao-resendense2.jpg"
 			}
 		]
 	}
