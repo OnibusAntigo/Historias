@@ -160,6 +160,238 @@
 		"titulo": "Viação Resendense",
 		"url": "https://img.youtube.com/vi/pBWiYjXbZ2Y/hqdefault.jpg",
 		"videoId": "pBWiYjXbZ2Y"
+	},
+	{
+		"id": "40",
+		"dataPublicacao": "2020-09-24T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ao canal ,nesse video estarei falando da Expresso Gaucho mais de uma forma diferente ,como eu não achei quase nada sobre a empresa ,eu falo da minha forma ,minha opnião sobre os onibus ,as cores ,etc , se voces gostaram não se esqueçam de curtir o video ,compartilhar com seus amigos e se inscrevam no canal quem ainda não for inscrito ,obrigado a todos ...",
+		"titulo": "Expresso Gaucho",
+		"url": "https://img.youtube.com/vi/V7Mm2x20hyE/hqdefault.jpg",
+		"videoId": "V7Mm2x20hyE"
+	},	
+	{
+		"id": "39",
+		"dataPublicacao": "2020-09-24T12:00:10Z",
+		"descricao": "Ola meus amigos ,mais um video pra voces ,agora é a vez de falar um pouco sobre a Empresa de Ônibus Nossa Senhora da Penha ,se gostsram deixem um joinha no video ,compartilhem com seus amigos e quem ainda não é inscrito se inscrevam ,um abraço a todos ...",
+		"titulo": "Empresa de Ônibus Nossa Senhora da Penha",
+		"url": "https://img.youtube.com/vi/XY8bfbYwk4U/hqdefault.jpg",
+		"videoId": "XY8bfbYwk4U"
+	},	
+	{
+		"id": "38",
+		"dataPublicacao": "2020-09-24T12:00:10Z",
+		"descricao": "Ola meus amigos ,nesse video eu falo um breve trecho da história da Mercedes-Benz Monobloco O-326 ,se voces gostaram não se esqueçam de deixar uma curtida no video ,compartilhem com seus amigos e quem ainda não for inscrito ,se inscrevam no canal ,valeu ...",
+		"titulo": "Mercedes-Benz Monobloco O-326",
+		"url": "https://img.youtube.com/vi/0dM_H4hVJFs/hqdefault.jpg",
+		"videoId": "0dM_H4hVJFs"
+	},	
+	{
+		"id": "37",
+		"dataPublicacao": "2020-09-24T12:00:10Z",
+		"descricao": "Ola meus amigos ,mais um video pra voces ,e agora falando um pouco sobre a PLUMA CONFORTO E TURISMO ,um breve resumo feito por mim ,se gostaram deixem sua curtida no video pra ajudar o canal ,compartilhem tambem ,e quem ainda não for inscrito se inscrevam ,valeu ...",
+		"titulo": "PLUMA CONFORTO E TURISMO",
+		"url": "https://img.youtube.com/vi/MTbQtNkLHkQ/hqdefault.jpg",
+		"videoId": "MTbQtNkLHkQ"
+	},		
+	{
+		"id": "36",
+		"dataPublicacao": "2020-09-24T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ,agora é a vez de contar um pouco da história da VIAÇÃO PÁSSARO VERDE ,se gostaram de uma curtida ,compartilhem ,e quem ainda não for inscrito ,se inscrevam no canal ,um grande abraço ...",
+		"titulo": "VIAÇÃO PÁSSARO VERDE",
+		"url": "https://img.youtube.com/vi/AzUUHLO-ngo/hqdefault.jpg",
+		"videoId": "AzUUHLO-ngo"
+	},	
+	{
+		"id": "35",
+		"dataPublicacao": "2020-09-23T12:00:10Z",
+		"descricao": "Bem vindo amigos apaixonados por onibus antigos ,nesse video falo um pouco da história da Real Expresso ,se gostaram deixem sua curtida no video ,compartilhem com seus amigos ,e se voce ainda não for inscrito ,se inscrevam no canal ,valeu ...",
+		"titulo": "Real Expresso",
+		"url": "https://img.youtube.com/vi/CjNDhyfJjIg/hqdefault.jpg",
+		"videoId": "CjNDhyfJjIg"
+	},	
+	{
+		"id": "34",
+		"dataPublicacao": "2020-09-23T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindoa ao canal ,agora é a vez de falar um pouco sobra a extinta Viação salutaris ,se gostaram deixem uma curtida no video ,compartilhem ,e quem ainda não for inscrito ,se inscrevam pra ficar por dentro das novidades ,obrigado ...",
+		"titulo": "Extinta Viação Salutaris",
+		"url": "https://img.youtube.com/vi/Tft8cQDZp0g/hqdefault.jpg",
+		"videoId": "Tft8cQDZp0g"
+	},	
+	{
+		"id": "33",
+		"dataPublicacao": "2020-09-23T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ,mais um video pra voces ,agora é a vez de falar um pouco da história da Expresso União ,se voces gostaram deixem uma curtida no video e compartilhem tambem ,e quem ainda não for inscrito se inscrevam no canal ,obrigado a todos ...",
+		"titulo": "Expresso União",
+		"url": "https://img.youtube.com/vi/s46cVV3MIfU/hqdefault.jpg",
+		"videoId": "s46cVV3MIfU"
+	},		
+	{
+		"id": "32",
+		"dataPublicacao": "2020-09-23T12:00:10Z",
+		"descricao": "Ola Meus amigos ,bem vindos ,mais um video pra voces ,agora falando um pouco da história da Viação Sertaneja ,se gostaram não se esqueçam de curtir o video ,compartilhar com seus amigos ,e quem ainda não for inscrito se inscrevam no canal para ver novos videos ,obrigado a todos ....",
+		"titulo": "Viação Sertaneja",
+		"url": "https://img.youtube.com/vi/-rIwRwVxPkE/hqdefault.jpg",
+		"videoId": "-rIwRwVxPkE"
+	},	
+	{
+		"id": "31",
+		"dataPublicacao": "2020-09-22T12:00:10Z",
+		"descricao": "Ola meus amigos ,mais um video pra voces ,agora é a vez de falar um pouco da história da Bomfim hoje ja extinta ,se gostaram deixem um like ,compartilhem com seus amigos e quem não for inscrito se inscrevam e fiquem por dentro das novidades do canal ,valeu ...",
+		"titulo": "Extinta Bomfim",
+		"url": "https://img.youtube.com/vi/2JfkIjoAfvg/hqdefault.jpg",
+		"videoId": "2JfkIjoAfvg"
+	},	
+	{
+		"id": "30",
+		"dataPublicacao": "2020-09-22T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ao canal ,nesse video estarei falando um pouco da Expresso timbira ,se gostaram de uma curtida no video ,compartilhem com seus amigos e quem não for inscrito se inscrevam ,valeu ...",
+		"titulo": "Expresso Timbira",
+		"url": "https://img.youtube.com/vi/Y7Xu6Dq0IEs/hqdefault.jpg",
+		"videoId": "Y7Xu6Dq0IEs"
+	},	
+	{
+		"id": "29",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Ola meus amigos ,nesse video estarei falando um pouco da Marcopolo 3 que marcou época e foi um onibus que cresci viajando ,e que gostava muito ,se gostarem de uma curtida ,compartilhem com seus amigos e quem não for inscrito se inscreva ,obrigado ...",
+		"titulo": "Carroceria Marcopolo 3",
+		"url": "https://img.youtube.com/vi/CoVwbkmEfEI/hqdefault.jpg",
+		"videoId": "CoVwbkmEfEI"
+	},	
+	{
+		"id": "28",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Ola meus amigos ,mais um video pra voces falando um pouco da Expresso Maringá ,sobre a sua história ,se gostaram de uma curtida ,compartilhem com seus amigos ,se ainda não for incrito se inscrevam pra ajudar ,abrigado a todos ...",
+		"titulo": "Expresso Maringá",
+		"url": "https://img.youtube.com/vi/ncmFndggdS4/hqdefault.jpg",
+		"videoId": "ncmFndggdS4"
+	},
+	{
+		"id": "27",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Salve meus amigos ,bem vindos ao meu canal ,nesse video conto um pouco da história da Auto Viação 1001 ,não se esqueçam de curtir o video ,compartilhar com seus amigos e quem não for inscrito se inscrevam ,obrigado a todos ...",
+		"titulo": "Auto Viação 1001",
+		"url": "https://img.youtube.com/vi/WvqVrQxo78c/hqdefault.jpg",
+		"videoId": "WvqVrQxo78c"
+	},	
+	{
+		"id": "26",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Salve meus amigos ,bem vindos ao meu canal ,nesse video conto um pouco da história da Auto Viação 1001 ,não se esqueçam de curtir o video ,compartilhar com seus amigos e quem não for inscrito se inscrevam ,obrigado a todos ...",
+		"titulo": "Auto Viação 1001",
+		"url": "https://img.youtube.com/vi/WvqVrQxo78c/hqdefault.jpg",
+		"videoId": "WvqVrQxo78c"
+	},	
+	{
+		"id": "25",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Ola meus amigos ,nesse video falo um pouco da história da CAIO Gabriela ,com certeza esse modelo a maioria ja tenham visto e andado ,fez parte da minha vida e de muitos tambem ,se gostaram do video não se esqueçam de curtir o video ,compartilhem com seus amigos ,quem não for inscrito ,se inscrevam no canal ,obrigado a todos ...",
+		"titulo": "CAIO Gabriela",
+		"url": "https://img.youtube.com/vi/oo-ihnhQV2o/hqdefault.jpg",
+		"videoId": "oo-ihnhQV2o"
+	},
+	{
+		"id": "24",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ao canal ,nesse video falo um pouco da história da Expresso Nordeste ,se gostaram de uma curtida ,se inscrevam no canal ,compartilhem com seus amigos ,valeu ...",
+		"titulo": "Expresso Nordeste",
+		"url": "https://img.youtube.com/vi/8M4Kn1zkEpQ/hqdefault.jpg",
+		"videoId": "8M4Kn1zkEpQ"
+	},	
+	{
+		"id": "23",
+		"dataPublicacao": "2020-09-20T12:00:10Z",
+		"descricao": "Salve meus amigos ,nesse video estarei contando um pouco da história da Empresa de Ônibus Pássaro Marron ,não se esqueçam de curtir se gostarem ,compartilhem com seus amigos , se inscrevam no canal ,obrigado ,tmj",
+		"titulo": "Empresa de Ônibus Pássaro Marron",
+		"url": "https://img.youtube.com/vi/oXXMM5alSv8/hqdefault.jpg",
+		"videoId": "oXXMM5alSv8"
+	},
+	{
+		"id": "22",
+		"dataPublicacao": "2020-09-20T12:00:10Z",
+		"descricao": "Ola meus amigos ,nesse video eu falo um pouco da história da Mercedes-Benz Monobloco O-352 ,eu particularmente adoro essa carrosseria que marcou história ,se voces gostaram deixem uma curtida ,compartilhem ,e quem não for inscrito ,se inscrevam no canal ,valeu",
+		"titulo": "Mercedes-Benz Monobloco O-352",
+		"url": "https://img.youtube.com/vi/Zi0AzHc1-7U/hqdefault.jpg",
+		"videoId": "Zi0AzHc1-7U"
+	},
+	{
+		"id": "21",
+		"dataPublicacao": "2020-09-20T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ,nesse video estarei contando um pouco da história da Breda Transportes e Serviços , se gostaram não se esqueçam de curtir o video ,compartilhar com seu amigos ,e quem não for inscrito se inscrevam pra ajudar ,muito obrigado ...",
+		"titulo": "Breda Transportes e Serviços",
+		"url": "https://img.youtube.com/vi/zAUK2MR_2G8/hqdefault.jpg",
+		"videoId": "zAUK2MR_2G8"
+	},
+	{
+		"id": "49",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Bem vindos meus amigos ao canal ,mais um video pra voces falando um pouco da história da Emtram de Salvador, Bahia ,se voces gostaram ja deixem aquela curtida ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam no canal ,obrigado ...",
+		"titulo": "História da Emtram",
+		"url": "https://img.youtube.com/vi/tLNqN4jtNeQ/hqdefault.jpg",
+		"videoId": "tLNqN4jtNeQ"
+	},	
+	{
+		"id": "48",
+		"dataPublicacao": "2020-09-21T12:00:10Z",
+		"descricao": "Bem vindo meus amigos ,nesse video passarei um pouco da história em fotos dos terminais urbanos e rodoviários ,se voces gostaram deixem aquela curtida no video ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam no canal ,valeu ...",
+		"titulo": "História em Fotos de Terminais Rodoviários e urbanos Antigamente",
+		"url": "https://img.youtube.com/vi/SLGYWyJVQfs/hqdefault.jpg",
+		"videoId": "SLGYWyJVQfs"
+	},
+	{
+		"id": "47",
+		"dataPublicacao": "2020-09-27T12:00:10Z",
+		"descricao": "Bem vindo meus amigos ,nesse video estarei falando um pouco da história desse magnífico onibus que foi o Mercedes-Benz Monobloco O-362  ,se voces gostaram ja deixam aquela curtida ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam no canal ,um grande abraço ...",
+		"titulo": "Mercedes-Benz Monobloco O-362",
+		"url": "https://img.youtube.com/vi/a0J5NOfXrt8/hqdefault.jpg",
+		"videoId": "a0J5NOfXrt8"
+	},	
+	{
+		"id": "46",
+		"dataPublicacao": "2020-09-26T12:00:10Z",
+		"descricao": "Bem vindo meus amigos ,nesse video eu falo um pequeno trecho que achei da Sulba , não tem muita coisa relacionada a essa empresa infelizmente ,mas o que vale é a intenção de fazer um video sobre ela ,se gostaram não se esqueçam de curtir o video ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam  no canal ,valeu ...",
+		"titulo": "Extinta SULBA - Companhia de Viação Sul Baiano",
+		"url": "https://img.youtube.com/vi/7rEYnxYy-F0/hqdefault.jpg",
+		"videoId": "7rEYnxYy-F0"
+	},	
+	{
+		"id": "45",
+		"dataPublicacao": "2020-09-26T12:00:10Z",
+		"descricao": "Bem vindos meus amigos ,nesse video estarei passando um pouco da história da já extinta Viazul Transportes Intermunicipais  ,se voces gostaram deixem aquela curtida no video pra ajudar ,compartilhem com seus amigos e quem ainda não for incrito se inscrevam no canal ,valeu ...",
+		"titulo": "Extinta Viazul Transportes Intermunicipais",
+		"url": "https://img.youtube.com/vi/axH_TcXakDM/hqdefault.jpg",
+		"videoId": "axH_TcXakDM"
+	},
+	{
+		"id": "44",
+		"dataPublicacao": "2020-09-26T12:00:10Z",
+		"descricao": "Bem vindos meus amigos ao canal , nesse video falo um pouco da história da Expresso Princesa dos Campos ,se voces gostaram não se esqueçam de deixar aquele joinha no video ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam no canal ,valeu ...",
+		"titulo": "Expresso Princesa dos Campos",
+		"url": "https://img.youtube.com/vi/kA3li-6HK2Y/hqdefault.jpg",
+		"videoId": "kA3li-6HK2Y"
+	},	
+	{
+		"id": "43",
+		"dataPublicacao": "2020-09-25T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ,nesse video eu conto um pouco da história da frota de onibus da Viação Garcia ,se voces gostaram deixem sua curtida ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam no canal ,valeu ..",
+		"titulo": "História da Frota de Onibus da Viação Garcia",
+		"url": "https://img.youtube.com/vi/uu13YA6Gupo/hqdefault.jpg",
+		"videoId": "uu13YA6Gupo"
+	},
+	{
+		"id": "42",
+		"dataPublicacao": "2020-09-25T12:00:10Z",
+		"descricao": "Ola meus amigos ,bem vindos ,nesse video falo um pouco sobre a extinta Eroles ,se voces gostaram deixem uma curtida no video ,compartilhem e quem ainda não for inscrito se inscrevam no canal ,um abraço a todos ...",
+		"titulo": "Transportes e Turismo Eroles",
+		"url": "https://img.youtube.com/vi/6L9TPb_7nVQ/hqdefault.jpg",
+		"videoId": "6L9TPb_7nVQ"
+	},
+	{
+		"id": "41",
+		"dataPublicacao": "2020-09-20T12:00:10Z",
+		"descricao": "Ola meus amigos ,hoje falando um pouco da história da UTIL ,se gostaram ja deixem aquela curtida no video ,compartilhem com seus amigos e quem ainda não for inscrito se inscrevam no canal ,valeu ...",
+		"titulo": "UTIL - União Transporte Interestadual de Luxo",
+		"url": "https://img.youtube.com/vi/WYaObNHLbIE/hqdefault.jpg",
+		"videoId": "WYaObNHLbIE"
 	}
   ]
 }
